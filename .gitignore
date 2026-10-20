@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ServicePilot local development
+.env.*
+!.env.example
+node_modules/
+.expo/
+mobile/dist/
+coverage/

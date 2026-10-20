@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "ServicePilot",
+    "slug": "servicepilot",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
